@@ -1,0 +1,6 @@
+com\itheima\kafka\producer\KafkaProducerClientTest.class
+com\itheima\kafka\client\KafkaProducerClient.class
+com\itheima\kafka\client\KafkaConsumerClient.class
+com\itheima\kafka\partition\UserPartition.class
+com\itheima\kafka\consumer\KafkaConsumerClientTest.class
+com\itheima\kafka\offset\KafkaConsumerManagerPartitionOffset.class
